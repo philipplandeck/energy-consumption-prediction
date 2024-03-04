@@ -4,8 +4,8 @@ Dieses Repository enthält den Code meiner Bachelorarbeit zur Entwicklung von Ma
 
 ## Ordnerstruktur
 
-- [`src`](#) - Hier befindet sich der Code für die Ausführung in der Cloud-Umgebung von Kaggle mit aktiviertem GPU-Boost.
-- [`src/w_o_gpu_boost`](#) - Enthält den Code für die Ausführung ohne GPU-Boost auf lokalen Systemen.
+- [`src`](https://github.com/philipplandeck/energy-consumption-prediction/tree/main/src) - Hier befindet sich der Code für die Ausführung in der Cloud-Umgebung Kaggle mit aktiviertem GPU-Boost.
+- [`src/w_o_gpu_boost`](https://github.com/philipplandeck/energy-consumption-prediction/tree/main/src/w_o_gpu_boost) - Enthält den Code für die Ausführung ohne GPU-Boost auf lokalen Systemen.
 - `data` - Dieser Ordner ist für Datensätze vorgesehen, die jedoch aufgrund der Lizenzierung durch [Pecan Street Inc.](https://www.pecanstreet.org/) nicht bereitgestellt werden können.
 
 ## Nutzung
